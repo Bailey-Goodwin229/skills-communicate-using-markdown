@@ -5,4 +5,7 @@ This is a test for using headers in markdown
 
 ```var myVar = "Hello, world!";```
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
